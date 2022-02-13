@@ -28,7 +28,7 @@
 
 3.  `GUI`用户在`插件设置`中搜索`bilinyun`安装
 
-   ![image-20220213192829346](https://pan.bilnn.cn/api/v3/file/sourcejump/P8MaDdtO/XmMGsSSRCtzuaiiZyv_m7Fn4dXt8a-I37drrvz-TO_U*)
+   ![image-20220213192829346](https://www.jianguoyun.com/c/dl-file/2022213195241.png?dt=r78rrd&kv=bGppbmc0MzFAMTYzLmNvbQ&sd=ct2tt&ud=OHRl21Y9bVT2IrHgULlznnekcs2esfUAWnmvG9KeLuY&vr=1)
 
 
 
@@ -50,7 +50,7 @@
 
 5. 点击确定，设置完成！
 
-
+<br>
 
 ## Q & A
 
@@ -65,13 +65,13 @@
 
 请您先依次检查上述问题，若均确认无误后仍无法上传，则可尝试清空设置中的`cds`和`token`并重启`picgo`。由于`比邻云盘`生成的`令牌`是有过期时间的（大约在每年年底12.20，具体过期策略未知），因此这可能是文件上传失败的原因之一。而一旦插件检测到您的`cds`和`token`为空，就会重新向系统获取。
 
-
+<br>
 
 ### 2. 比邻云盘的稳定性怎么样？
 
 由于比邻云盘架设在国内，其访问速度相当优秀，但其稳定性未知，请您谨慎保管您的数据。
 
-
+<br>
 
 ### 3. 比邻云盘会设置防盗链吗？
 
