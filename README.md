@@ -28,7 +28,7 @@
 
 3.  `GUI`用户在`插件设置`中搜索`bilinyun`安装
 
-   ![image-20220213200524762](https://www.jianguoyun.com/c/dl-file/202221320524.png?dt=r78sck&kv=bGppbmc0MzFAMTYzLmNvbQ&sd=ct2tt&ud=Zl8cLdrXIUliDIaxHwJu_6-AnjP9tQKvX_H9zRzmyqI&vr=1)
+   ![image-20220213200656868](https://pan.bilnn.cn/api/v3/file/sourcejump/MdrxoAuv/pTLNAa00YiytDm0LapKrhqFqbXD41Dny-XoZunRi16Q*)
 
 
 
