@@ -1,12 +1,12 @@
 {
   "name": "picgo-plugin-bilinyun",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "基于比邻云盘的picgo插件",
   "main": "src/index.js",
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "",
+  "homepage": "https://github.com/Redns/picgo-plugin-bilinyun",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "patch": "npm version patch && git push origin master && git push origin --tags",
